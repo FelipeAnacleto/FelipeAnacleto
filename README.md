@@ -1,5 +1,5 @@
-## Olá! Eu sou <mark>Felipe Anacleto</mark>, estou em busca de uma vaga de programação front-end.
-## Estou estudando HTML CSS e JAVASCRIPT
+## Olá! Eu sou *Felipe Anacleto*, estou em busca de uma vaga de programação front-end.
+## Estou estudando *HTML CSS e JAVASCRIPT*
 <div align="center">
   <a href="https://github.com/FelipeAnacleto">
   <img height="190em" width="52%" src="https://github-readme-stats.vercel.app/api?username=FelipeAnacleto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
